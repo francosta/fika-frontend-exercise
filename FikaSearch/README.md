@@ -1,4 +1,4 @@
-## Introduction
+## Introduction
 
 This is my solution for the Fika frontend technical challenge.
 
